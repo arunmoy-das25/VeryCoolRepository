@@ -1,4 +1,4 @@
 @FunctionalInterface
-interface Gauss {
+public interface Gauss {
     int gauss(int start, int end);
 }
